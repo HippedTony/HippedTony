@@ -1,16 +1,32 @@
-## Hi there 👋
+Hi! I'm Tony 👋
 
-<!--
-**HippedTony/HippedTony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer focused on building modern, scalable web applications.
 
-Here are some ideas to get you started:
+I work mainly with React and Next.js, creating dynamic user experiences, real-time systems (like drone management platforms), and complex data-driven dashboards. I enjoy turning ideas into clean, performant, and maintainable products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+🚀 Tech Stack
+
+Languages -
+JavaScript · TypeScript · HTML5 · CSS · Python · Dart · Java · SQL
+
+Frontend & Web -
+React · Next.js · Angular · Three.js · React Three Fiber
+Tailwind CSS · Bootstrap · Material UI · Radix UI
+
+State & Data -
+Zustand · Redux · React Query · Axios
+
+Backend & APIs -
+Node.js · Express · NestJS · Django
+GraphQL · Apollo · tRPC
+
+Databases -
+MongoDB · SQLite · Firebase · SQL Server
+
+##
+
+📫 Contact
+
+📧 tony.paniagua.7@gmail.com
