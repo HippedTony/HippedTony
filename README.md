@@ -29,4 +29,4 @@ MongoDB · SQLite · Firebase · SQL Server
 
 📫 Contact
 
-📧 tony.paniagua.7@gmail.com
+[Portfolio](https://hippedtony.github.io/portfolio-dashboard-app/)
